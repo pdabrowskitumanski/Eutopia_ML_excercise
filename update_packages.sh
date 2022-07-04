@@ -1,0 +1,1 @@
+pip install keras neptune-client neptune-tensorflow-keras neptune-sklearn plotly pandas matplotlib seaborn numpy scikit-learn jupyter tensorflow
